@@ -2,12 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d754e88-5674-480f-a48a-7875fd3049fd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/imooc-netty-hello.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/imooc/netty/CustomHandler.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/imooc/netty/HelloServer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/imooc/netty/HelloServerInitializer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Muxin_Netty/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Muxin_Netty/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Muxin_Netty/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Muxin_Netty/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Muxin_Netty/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Muxin_Netty/Muxin_Netty.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Muxin_Netty/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Muxin_Netty/src/main/java/com/imooc/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Muxin_Netty/src/main/java/com/imooc/controller/HelloController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Muxin_Netty/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Muxin_Netty/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Muxin_Netty/target/classes/com/imooc/Application.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Muxin_Netty/target/classes/com/imooc/controller/HelloController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatis_Refactor_Enginee/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring_Boot_Backend_Server/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Spring_Boot_Backend_Server/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -21,11 +30,12 @@
     <session id="-452223757">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.33" value="1" />
           <entry key="project.open.time.5" value="2" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -103,7 +113,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="2440" />
+    <option name="x" value="640" />
     <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="1002" />
@@ -189,23 +199,23 @@
       <workItem from="1541348652413" duration="1320000" />
       <workItem from="1541350452066" duration="21000" />
       <workItem from="1541350488277" duration="7741000" />
+      <workItem from="1541396674026" duration="13000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9693000" />
+    <option name="totallyTimeSpent" value="9706000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2440" y="23" width="1280" height="1002" extended-state="0" />
+    <frame x="640" y="23" width="1280" height="1002" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25767368" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26171243" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info id="Capture Tool" order="6" />
-      <window_info anchor="bottom" id="Messages" weight="0.32967034" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32967034" />
@@ -217,6 +227,7 @@
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32967034" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -245,76 +256,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/imooc-netty-hello.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="10" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/imooc/netty/CustomHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="473">
-          <caret line="100" lean-forward="true" selection-start-line="100" selection-end-line="100" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/imooc/netty/HelloServerInitializer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/imooc/netty/HelloServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/imooc/netty/websocket/WSServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/imooc/netty/websocket/ChatHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="26" column="68" lean-forward="true" selection-start-line="26" selection-start-column="68" selection-end-line="26" selection-end-column="69" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/imooc/netty/websocket/WSServerInitializer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="412">
-          <caret line="31" column="20" lean-forward="true" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc-netty-hello.iml" />
+    <entry file="file://$PROJECT_DIR$/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/imooc/netty/CustomHandler.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/imooc/netty/HelloServerInitializer.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/imooc/netty/HelloServer.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/imooc/netty/websocket/WSServer.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/imooc/netty/websocket/ChatHandler.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/imooc/netty/websocket/WSServerInitializer.java" />
   </component>
   <component name="masterDetails">
     <states>

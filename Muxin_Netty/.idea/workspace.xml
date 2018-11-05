@@ -2,29 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b26238b2-d411-4813-ab9f-d73b6b8aa04a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Netty Server/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Netty Server/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Netty Server/.idea/libraries/Maven__io_netty_netty_all_4_1_31_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Netty Server/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Netty Server/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Netty Server/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Netty Server/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Netty Server/imooc-netty-hello.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Netty Server/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Netty Server/src/main/java/com/imooc/netty/CustomHandler.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Netty Server/src/main/java/com/imooc/netty/HelloServer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Netty Server/src/main/java/com/imooc/netty/HelloServerInitializer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Netty Server/src/main/java/com/imooc/netty/websocket/ChatHandler.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Netty Server/src/main/java/com/imooc/netty/websocket/WSServer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Netty Server/src/main/java/com/imooc/netty/websocket/WSServerInitializer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Netty Server/target/classes/com/imooc/netty/CustomHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Netty Server/target/classes/com/imooc/netty/HelloServer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Netty Server/target/classes/com/imooc/netty/HelloServerInitializer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Netty Server/target/classes/com/imooc/netty/websocket/ChatHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Netty Server/target/classes/com/imooc/netty/websocket/WSServer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Netty Server/target/classes/com/imooc/netty/websocket/WSServerInitializer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../xin_flutter/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../xin_flutter/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../xin_flutter/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../xin_flutter/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Muxin_Netty.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/imooc/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/imooc/controller/HelloController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/Application.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/controller/HelloController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyBatis_Refactor_Enginee/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring_Boot_Backend_Server/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring_Boot_Backend_Server/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -38,6 +31,7 @@
     <session id="831299309">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -60,56 +54,20 @@
         <counts>
           <entry key="iml" value="1" />
           <entry key="java" value="3" />
-          <entry key="properties" value="2" />
+          <entry key="properties" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IDEA_MODULE" value="1" />
           <entry key="JAVA" value="3" />
-          <entry key="Properties" value="2" />
+          <entry key="Properties" value="3" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="117">
-              <caret line="70" column="27" selection-start-line="70" selection-start-column="27" selection-end-line="70" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/imooc/Application.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="37" column="55" lean-forward="true" selection-start-line="37" selection-start-column="55" selection-end-line="37" selection-end-column="55" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Muxin_Netty.iml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -145,9 +103,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-2560" />
-    <option name="y" value="-34" />
-    <option name="width" value="2256" />
+    <option name="x" value="-2414" />
+    <option name="y" value="-20" />
+    <option name="width" value="2560" />
     <option name="height" value="1002" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -213,7 +171,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541396344173" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541396708715" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -291,7 +249,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1541395377914</updated>
-      <workItem from="1541395379690" duration="954000" />
+      <workItem from="1541395379690" duration="1378000" />
     </task>
     <servers />
   </component>
@@ -301,11 +259,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="954000" />
+    <option name="totallyTimeSpent" value="1378000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-2560" y="-34" width="2560" height="1002" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Image Layers" />
@@ -324,7 +281,7 @@
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32967034" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32967034" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -368,8 +325,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="117">
-          <caret line="70" column="27" selection-start-line="70" selection-start-column="27" selection-end-line="70" selection-end-column="27" />
+        <state relative-caret-position="112">
+          <caret line="74" column="20" lean-forward="true" selection-start-line="74" selection-start-column="20" selection-end-line="74" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -385,8 +342,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="37" column="55" lean-forward="true" selection-start-line="37" selection-start-column="55" selection-end-line="37" selection-end-column="55" />
+        <state relative-caret-position="246">
+          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="40" selection-end-column="5" />
         </state>
       </provider>
     </entry>
